@@ -161,7 +161,13 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>7: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2962479" target="_blank">Smart Beta, 
+<font color="black" face="微软正黑" size=3>11: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3520403" target="_blank">Options Trading and Corporate Debt Structure</a> (with Jie Cao, Michael Hertzel, Jie Xu), 2025, <strong>Journal of Accounting and Public Policy</strong> 49, 107274. </font>
+</p>
+
+Options Trading and Corporate Debt Structure  (with Jie Cao, Michael Hertzel, Jie Xu), 2025, Journal of Accounting and Public Policy 49, 107274.
+
+<p>
+<font color="black" face="微软正黑" size=3>12: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2962479" target="_blank">Smart Beta, 
 "Smarter" Flows</a> (with Jie Cao, Jason Hsu, Linjia Song, Zhanbing Xiao), 2025, <strong>Journal of Empirical Finance</strong> 81, 101580. </font>
 </p>
 
