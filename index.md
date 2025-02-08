@@ -161,6 +161,10 @@ profile_picture:
 </p>
 
 <p>
+<font color="black" face="微软正黑" size=3>7: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3788744" target="_blank">Smart Beta, ``Smarter" Flows</a> (with Jie Cao, Jason Hsu, Linjia Song, Zhanbing Xiao), 2025, <strong>Journal of Empirical Finance</strong> 81, 101580. </font>
+</p>
+
+<p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">科研获奖</font></b>
 </p>
 
