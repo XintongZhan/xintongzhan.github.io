@@ -174,6 +174,10 @@ profile_picture:
 </p>
 
 <p>
+<font color="black" face="微软正黑" size=3>12: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2962479" target="_blank">Carbon Emissions, Mutual Fund Trading, and the Liquidity of Corporate Bonds </a> (with Jie Cao, Yi Li, Weiming Zhang, Linyu Zhou), 2025, <strong>Management Science</strong> accepted. </font>
+</p>
+
+<p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">科研获奖</font></b>
 </p>
 
