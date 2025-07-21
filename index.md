@@ -102,7 +102,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2023.09 至今,	    亚洲经济金融研究局 (ABFER),				        研究员</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2023.07 至今,	    香港中文大学刘佐德全球经济及金融研究所,				        名誉研究员</font>
+<font color="black" face="微软正黑" size=3>2023.07 至今,	    香港中文大学刘佐德全球经济及金融研究所,				        高级名誉研究员</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2016.09 – 2018.07,	    荷兰-廷贝亨研究所 (Tinbergen Institute),				        Candidate Fellow</font>
