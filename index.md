@@ -178,6 +178,10 @@ profile_picture:
 </p>
 
 <p>
+<font color="black" face="微软正黑" size=3>13: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878123" target="_blank">Unlocking ESG Premium from Options </a> (with Jie Cao, Yi Li, Weiming Zhang, Linyu Zhou), 2025, <strong>Journal of Financial and Quantitative Analysis</strong> forthcoming. (FT50) </font>
+</p>
+
+<p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">科研获奖</font></b>
 </p>
 
@@ -245,10 +249,10 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>金融机构： 摩根斯坦利 (纽约) , Two Sigma (纽约) , Cubist (纽约) , OptionMetrics (纽约) , Mental Capital (旧金山) , 锐联财智 (洛杉矶) , 施罗德投资集团 (伦敦) , GSA Capital (伦敦) , 领先资管 (巴黎) , 荷宝投资 (阿姆斯特丹) , 安盛投资 (香港) , 美银美林 (香港) , 麦格里银行 (香港) , Quantifeed (香港) , 银华基金 (北京) , 九鞅投资 (上海）</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>研究机构：中证金融研究院 (北京) , 欧洲量化投资研究所 , 加拿大衍生品研究院 (蒙特利尔) , 日内瓦财富研究院 (日内瓦) , 新国大资产管理研究与投资中心 (新加坡) , 上纽大金融波动研究所 (上海)</font>
+<font color="black" face="微软正黑" size=3>研究机构：中证金融研究院 (北京) ,  加拿大衍生品研究院 (蒙特利尔) , 日内瓦财富研究院 (日内瓦) , 新国大资产管理研究与投资中心 (新加坡) , 上纽大金融波动研究所 (上海)</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>行业协会：CFA协会 , CAIA协会 , 世界交易所联合会 (伦敦) , 芝加哥数量联盟 (芝加哥) , 芝加哥数量联盟亚洲 (香港) , 亚洲资产管理杂志 (香港) , 亚洲ETF 论坛 (香港) , 智能投研技术联盟 (上海)</font>
+<font color="black" face="微软正黑" size=3>行业协会：CFA协会 , CAIA协会 , 英国量化投资研究会， 欧洲量化投资研究会, 世界交易所联合会 (伦敦) , 芝加哥数量联盟 (芝加哥) , 芝加哥数量联盟亚洲 (香港) , 亚洲资产管理杂志 (香港) , 亚洲ETF 论坛 (香港) , 智能投研技术联盟 (上海)</font>
 </p>
 
 
