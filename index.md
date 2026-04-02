@@ -55,7 +55,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>战昕彤教授入选国家海外高层次人才计划青年项目和上海市领军人才项目，并主持国家自然科学基金委面上项目。她曾连续三年（2018-2021）获得香港研究局的项目资助，包括一项杰出青年研究计划 (ECS) 以及两项优配研究基金 (GRF)，并获得瑞士日内瓦财富研究院，加拿大衍生品研究院等多个海外科研机构的研究支持。 </font>
 </p>
 <p>
- <font color="black" face="微软正黑" size=3>战昕彤教授目前担任知名SSCI 国际期刊《International Review of Finance》以及《Asia-Pacific Journal of Financial Studies》的副主编 (Associate Editor)。她亦担任 CFA 旗下的金融业界国际权威期刊《Financial Analysts Journal》的编委会成员，以及《中国会计与财务研究》期刊的编委 (Editor)。她承担多种国际一流期刊的评审工作，并担任香港研究局的外部评审专家。战教授亦致力于对社会有积极影响力的学术研究，多次受邀至国内外知名金融机构对其研究成果进行宣讲。她所讲授的课程包括可持续金融，房地产金融，财务管理，行为金融等。她曾连续两年（2018-2020）获得香港中文大学商学院教学优秀奖 (Faculty Teaching Merit Award)。她参与指导的多名博士研究生任职于国内外知名高等院校以及头部金融机构。</font>
+ <font color="black" face="微软正黑" size=3>战昕彤教授目前担任知名SSCI 国际期刊《International Review of Finance》,《Asia-Pacific Journal of Financial Studies》以及《Economic Modelling》的副主编 (Associate Editor)。她亦担任 CFA 旗下的金融业界国际权威期刊《Financial Analysts Journal》的编委会成员。她承担多种国际一流期刊的评审工作，并担任香港研究局的外部评审专家。战教授亦致力于对社会有积极影响力的学术研究，多次受邀至国内外知名金融机构对其研究成果进行宣讲。她所讲授的课程包括可持续金融，房地产金融，财务管理，行为金融等。她曾连续两年（2018-2020）获得香港中文大学商学院教学优秀奖 (Faculty Teaching Merit Award)。她参与指导的多名博士研究生任职于国内外知名高等院校以及头部金融机构。</font>
 </p>
 
 
@@ -171,7 +171,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>13: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881497" target="_blank">Carbon Emissions, Mutual Fund Trading, and the Liquidity of Corporate Bonds </a> (with Jie Cao, Yi Li, Weiming Zhang, Linyu Zhou), 2025, <strong>Management Science</strong> forthcoming. (UTD24 / FT50) </font>
+<font color="black" face="微软正黑" size=3>13: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881497" target="_blank">Carbon Emissions, Mutual Fund Trading, and the Liquidity of Corporate Bonds </a> (with Jie Cao, Yi Li, Weiming Zhang, Linyu Zhou), 2026, <strong>Management Science</strong> forthcoming. (UTD24 / FT50) </font>
 </p>
 
 <p>
