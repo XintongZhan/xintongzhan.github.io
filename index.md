@@ -107,17 +107,21 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2025.01 至今,	    Asia-Pacific Journal of Financial Studies《亚太金融研究》期刊,				        副主编</font>
+<font color="black" face="微软正黑" size=3>2024 至今,	    Financial Analysts Journal《金融分析师》期刊,				        编委会</font>
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2024.01 至今,	    Financial Analysts Journal《金融分析师》期刊,				        编委会</font>
+<font color="black" face="微软正黑" size=3>2025 至今,	    Economic Modelling《经济建模》期刊,				        副主编</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2023.06 至今,	    International Review of Finance《国际金融评论》期刊,				        副主编</font>
+<font color="black" face="微软正黑" size=3>2023 至今,	    International Review of Finance《国际金融评论》期刊,				        副主编</font>
+</p>
+
+<p>
+<font color="black" face="微软正黑" size=3>2025 至今,	    Asia-Pacific Journal of Financial Studies《亚太金融研究》期刊,				        副主编</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2023.02 至今,	    China Accounting and Finance Review《中国会计与财务研究》期刊,				        主编</font>
+<font color="black" face="微软正黑" size=3>2023 至今,	    China Accounting and Finance Review《中国会计与财务研究》期刊,				        主编</font>
 </p>
 
 
