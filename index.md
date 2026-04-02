@@ -172,11 +172,15 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>13: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881497" target="_blank">Carbon Emissions, Mutual Fund Trading, and the Liquidity of Corporate Bonds </a> (with Jie Cao, Yi Li, Weiming Zhang, Linyu Zhou), 2026, <strong>Management Science</strong> forthcoming. (UTD24 / FT50) </font>
+<font color="black" face="微软正黑" size=3>13: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881497" target="_blank">Carbon Emissions, Mutual Fund Trading, and the Liquidity of Corporate Bonds </a> (with Jie Cao, Yi Li, Weiming Zhang, Linyu Zhou), 2026, <strong>Management Science</strong> 72, 1959–1986. (UTD24 / FT50) </font>
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>14: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878123" target="_blank">Unlocking ESG Premium from Options </a> (with Jie Cao, Amit Goyal, Weiming Zhang), 2025, <strong>Journal of Financial and Quantitative Analysis</strong> accepted. (FT50) </font>
+<font color="black" face="微软正黑" size=3>14: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878123" target="_blank">Unlocking ESG Premium from Options </a> (with Jie Cao, Amit Goyal, Weiming Zhang), 2026, <strong>Journal of Financial and Quantitative Analysis</strong> forthcoming. (FT50) </font>
+</p>
+
+<p>
+<font color="black" face="微软正黑" size=3>14: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301015" target="_blank">Betting Against the Crowd: Option Trading and Market Risk Premium </a> (with Jie Cao, Gang Li, Guofu Zhou), 2026, <strong>Journal of Financial and Quantitative Analysis</strong> forthcoming. (FT50) </font>
 </p>
 
 <p>
