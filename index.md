@@ -176,11 +176,11 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>14: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878123" target="_blank">A Conditional Factor Model for Real Estate Investment Trusts Returns </a> (with Jie Cao, Linjia Song), 2026, <strong>Real Estate Economics</strong> forthcoming. </font>
+<font color="black" face="微软正黑" size=3>14: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878123" target="_blank">Unlocking ESG Premium from Options  </a> (with Jie Cao, Amit Goyal, Weiming Zhang), 2026, <strong>Journal of Financial and Quantitative Analysis</strong> forthcoming. (FT50) </font>
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>15: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4322327" target="_blank">A Conditional Factor Model for Real Estate Investment Trusts Returns</a> (with Jie Cao, Linjia Song), 2026, <strong>Journal of Financial and Quantitative Analysis</strong> forthcoming. (FT50) </font>
+<font color="black" face="微软正黑" size=3>15: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4322327" target="_blank">A Conditional Factor Model for Real Estate Investment Trusts Returns</a> (with Jie Cao, Linjia Song), 2026, <strong>Real Estate Economics</strong> forthcoming. </font>
 </p>
 
 <p>
