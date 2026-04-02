@@ -50,15 +50,12 @@ profile_picture:
 <p>
 <font color="black" face="微软正黑" size=3>她的主要研究领域包括实证资产定价、可持续金融、金融衍生品与房地产金融等。其多项研究成果见诸于国际顶级金融学及管理学期刊，其中8篇发表于 UTD24 期刊，12篇发表于 FT50 期刊。其论文曾15次入选金融学三大国际顶级会议，包括美国金融协会年会（AFA）、西部金融协会年会（WFA）和欧洲金融协会年会（EFA）。她多次在国际学术会议及金融业界论坛上荣获最佳论文奖，并于2021年获得香港中文大学青年学者研究成就奖（Young Researcher Award）。</font>
 </p>
-
 <p>
-<font color="black" face="微软正黑" size=3>战昕彤教授现任知名SSCI国际期刊《International Review of Finance》、《Asia-Pacific Journal of Financial Studies》及《Economic Modelling》副主编，并担任CFA协会旗下权威期刊《Financial Analysts Journal》编委会成员。她还长期为多家国际一流学术期刊担任匿名审稿人，并受聘为香港研究资助局外部评审专家。</font>
+<font color="black" face="微软正黑" size=3>战昕彤教授入选国家海外高层次人才计划青年项目和上海市领军人才项目，并主持国家自然科学基金面上项目。她曾连续三年（2018-2021）获得香港研究局的项目资助，包括一项杰出青年研究计划 (ECS) 以及两项优配研究基金 (GRF)，并获得瑞士日内瓦财富研究院，加拿大衍生品研究院等多个海外科研机构的研究支持。 </font>
 </p>
 <p>
- <font color="black" face="微软正黑" size=3>在教学与人才培养方面，战昕彤教授讲授可持续金融、房地产金融、财务管理、行为金融等课程，曾连续两年获得香港中文大学商学院教学优秀奖（Faculty Teaching Merit Award）。她注重学术研究的现实影响力，多次受邀赴国内外知名金融机构介绍研究成果。其指导和参与指导的博士毕业生，已在海内外知名高校及头部金融机构任职。</font>
+<font color="black" face="微软正黑" size=3>战昕彤教授现任知名SSCI国际期刊《International Review of Finance》、《Asia-Pacific Journal of Financial Studies》及《Economic Modelling》副主编，并担任CFA协会旗下权威期刊《Financial Analysts Journal》编委会成员。她还长期为多家国际一流学术期刊担任匿名审稿人，并受聘为香港研究资助局外部评审专家。她承担多种国际一流期刊的评审工作，并担任香港研究局的外部评审专家。战教授亦致力于对社会有积极影响力的学术研究，多次受邀至国内外知名金融机构对其研究成果进行宣讲。她所讲授的课程包括可持续金融，房地产金融，财务管理，行为金融等。她曾连续两年（2018-2020）获得香港中文大学商学院教学优秀奖 (Faculty Teaching Merit Award)。她参与指导的多名博士研究生任职于国内外知名高等院校以及头部金融机构。</font>
 </p>
-
-
 
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">教育背景</font></b>
